@@ -1,0 +1,6 @@
+Eureka基本操作。
+一，配置说明
+  1.server
+  application.yml
+
+  2. client
